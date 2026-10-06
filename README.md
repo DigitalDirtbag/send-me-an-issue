@@ -6,7 +6,7 @@ There is no code, library, or app here. The issue tracker is the whole point.
 
 ## How to reach me
 
-1. Go to the [Issues tab](https://github.com/DigitalDirtbag/send-me-an-issue-3/issues).
+1. Go to the [Issues tab](https://github.com/DigitalDirtbag/send-me-an-issue/issues).
 2. Click **New issue**.
 3. Write whatever you want to say: a question, an idea, a hello, some feedback, or a request.
 4. Submit it. I'll read it and reply there when I can.
